@@ -14,10 +14,10 @@ Punerb.org is a reflection of the Ruby User Group in Pune. It is a place where w
 
 To share an idea (or report a bug), just use github issues:
 
-1. Go to the [GitHub issues page](https://github.com/xipcraft/punerb.org/issues)
+1. Go to the [GitHub Issues page](https://github.com/xipcraft/punerb.org/issues)
 * Check if your Idea or Bug has already been submitted.
-* Can't find it? Create a [new issue](https://github.com/xipcraft/punerb.org/issues/new)
-* Give it a nice title, and provide a discription, if needed.
+* Can't find it? Create a [New issue](https://github.com/xipcraft/punerb.org/issues/new)
+* Give it a nice title. Provide a discription, if needed.
 * Add a relevant tag like `enhancement` for ideas or `bug` for a bug.
 * Send it!
 
@@ -27,8 +27,8 @@ To add a new feature, it is recommended that you follow this procedure:
 
 1. Assuming you're starting from a git-committed state. If not, commit or stash your code just before you start on the feature.
 * Create and checkout to a branch appropriately named, for example `git checkout -b super_sexy_feature`.
-* Code, commit and push to that branch. You can use `git push origin super_sax_feature` to keep things in sync with GitHub online.
-* Once you are happy with the feature, (and all the tests pass) submit a Pull Request.
+* Code, commit and push to that branch. You can use `git push origin super_sexy_feature` to keep things in sync with GitHub online.
+* Once you are happy with the feature, (and all the tests pass) submit a [new Pull Request](https://github.com/xipcraft/punerb.org/pulls) to the [punerb.org repo on GitHub](https://github.com/xipcraft/punerb.org).
 
 **Why bother?:** This process helps keep the demons out of the code. Get with it!
 
