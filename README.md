@@ -50,6 +50,7 @@ Before starting out, install or setup the following:
 #### Booting the app
 
 0. Get Redis server started on it's defaults. I don't see why you'd ever want to switch it off.
+1. Make sure you are running the correct Ruby version. If you are using `rvm`, then simply navigating to the project directory should sort you out.
 1. Navigate to project directory and run `gem install bundler cucumber rspec`.
 2. Now run `bundle install` from the project directory.
 3. Run `bundle exec rackup config.ru -p 3000` from the project directory. Note that you can replace `3000` with the port of your choice.
