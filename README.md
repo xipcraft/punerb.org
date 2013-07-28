@@ -14,10 +14,12 @@ Punerb.org is a reflection of the Ruby User Group in Pune. It is a place where w
 
 To share an idea (or report a bug), just use github issues:
 
-1. Go to [Step by step instructions here..]
-* `New issue`
-* Tag issue
-* Submit
+1. Go to the [GitHub issues page](https://github.com/xipcraft/punerb.org/issues)
+* Check if your Idea or Bug has already been submitted.
+* Can't find it? Create a [new issue](https://github.com/xipcraft/punerb.org/issues/new)
+* Give it a nice title, and provide a discription, if needed.
+* Add a relevant tag like `enhancement` for ideas or `bug` for a bug.
+* Send it!
 
 ### Ah, you want to contribute..
 
