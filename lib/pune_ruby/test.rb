@@ -1,5 +1,5 @@
 module PuneRuby
-  class Test
+  module Test
     def in_event_machine_synchrony_reactor
       EM.synchrony { yield; EM.stop }
     end

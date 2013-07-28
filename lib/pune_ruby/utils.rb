@@ -1,5 +1,9 @@
 module PuneRuby
   module Utils
+    module ClassMethods
+      #
+    end
+
     module InstanceMethods
       def sym_keys(hash)
 

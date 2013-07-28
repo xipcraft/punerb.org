@@ -2,7 +2,7 @@ ENV['RACK_ENV'] = 'test'
 
 require File.join(File.dirname(__FILE__), '..', '..', 'lib/pune_ruby.rb')
 require 'capybara'
-require 'webmock/cucumber'
+# require 'webmock/cucumber'
 require 'capybara/cucumber'
 require 'rspec'
 require 'pune_ruby/test'
