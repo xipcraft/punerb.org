@@ -9,10 +9,12 @@ It is a place where we share relevant knowledge and propagate Ruby skill.
 ### The first rule about PuneRUG.. Nah just kidding. Find us here:
 
 Website - `punerb.org`
+
 IRC - `#punerb` on freenode
+
 Mailing List - `https://groups.google.com/forum/#!forum/puneruby`
 
-### So, you have and idea (or you found a bug)?!
+#### So, you have and idea (or you found a bug)?!
 
 To share an idea (or report a bug), just use github issues:
 
@@ -21,7 +23,7 @@ To share an idea (or report a bug), just use github issues:
 * Tag issue
 * Submit
 
-### Ah, you want to contribute..
+#### Ah, you want to contribute..
 
 To add a new feature, it is recommended that you follow this procedure:
 
