@@ -4,7 +4,7 @@
 
 Punerb.org is a reflection of the Ruby User Group (RUG) in Pune. It is a place where we share relevant knowledge and propagate Ruby skill.
 
-### The first rule about PuneRUG.. Nah just kidding. Find us here:
+### The first rule about PuneRUG.. Just kidding.. Find us here:
 
 * Website - `punerb.org`
 * IRC - `#punerb` on freenode
