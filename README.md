@@ -1,4 +1,6 @@
-# Punerb.org - What is this website all about?
+# Punerb.org
+
+## What is this website all about?
 
 Punerb.org is a reflection of the Ruby User Group in Pune. It is a place where we share relevant knowledge and propagate Ruby skill.
 
