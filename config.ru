@@ -1,4 +1,5 @@
-require "bundler/setup"
-Bundler.require(:default)
+require 'rubygems'
+require File.join(File.dirname(__FILE__), 'lib/pune_ruby.rb')
 
-run Rack::Jekyll.new(:destination => '_site')
+#use Rack::FiberPool
+run PuneRuby::App
