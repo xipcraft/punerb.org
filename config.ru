@@ -1,5 +1,5 @@
 require 'rubygems'
-require File.join(File.dirname(__FILE__), 'lib/pune.rb')
+require File.join(File.dirname(__FILE__), 'lib/pune_ruby.rb')
 
 #use Rack::FiberPool
-run Pune::App
+run PuneRuby::App
