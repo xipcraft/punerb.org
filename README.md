@@ -1,7 +1,10 @@
 # Website for the Pune Ruby User Group
 
 ### What is this website all about?
-Punerb.org is a reflection of the Ruby user community in Pune. It is a place where we promote the propagation and sharing of Ruby knowledge and skill.
+
+Punerb.org is a reflection of the Ruby user community in Pune.
+
+It is a place where we share relevant knowledge and propagate Ruby skill.
 
 ### The first rule about PuneRUG.. Nah just kidding. Find us here:
 
